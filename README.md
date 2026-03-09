@@ -4,12 +4,9 @@ Hi There 👋. **I am Heshan**
 
 💻 Focused on Web Application Development, constantly improving my ability to design, build, and optimize modern software systems.
 
-🛠️ **Technologies & Tools I work with:
-• C#
-• Java
-• HTML, CSS and JavaScript
-• PHP & MySQL
-• Figma** for UI/UX design
+🛠  Tech Stack
+Python  JavaScript  Java  HTML  CSS  GitHub  Markdown
+Visual Studio Code  Photoshop 
 
 📚 I enjoy continuously learning new technologies, sharpening my problem-solving skills, and transforming ideas into practical, real-world applications.
 
