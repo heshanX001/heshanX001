@@ -4,9 +4,10 @@ Hi There 👋. **I am Heshan**
 
 💻 Focused on Web Application Development, constantly improving my ability to design, build, and optimize modern software systems.
 
-🛠  Tech Stack
-Python  JavaScript  Java  HTML  CSS  GitHub  Markdown
-Visual Studio Code  Photoshop 
+- 🚀 Learning Full Stack Web Development
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 📚 I enjoy continuously learning new technologies, sharpening my problem-solving skills, and transforming ideas into practical, real-world applications.
 
