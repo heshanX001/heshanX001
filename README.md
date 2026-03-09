@@ -7,7 +7,7 @@ Hi There 👋. **I am Heshan**
 - 🚀 Learning Full Stack Web Development
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,node,mysql)](https://skillicons.dev)
 
 📚 I enjoy continuously learning new technologies, sharpening my problem-solving skills, and transforming ideas into practical, real-world applications.
 
