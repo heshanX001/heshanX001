@@ -4,16 +4,13 @@ Hi There 👋. **I am Heshan**
 
 💻 Focused on Web Application Development, constantly improving my ability to design, build, and optimize modern software systems.
 
+🛠️ Technologies & Tools I work with:
+• C#
+• JAVA
+• HTML,CSS and JS
+• PHP and MySQL
+
 - 🚀 Learning Full Stack Web Development
-
-## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=Java,c#,js)](https://skillicons.dev)
-
-## Other Skills
-[![My Skills](https://skillicons.dev/icons?i=Html,css,tailwindcss,react,node,mysql)](https://skillicons.dev)
-
-## Tools
-[![My Skills](https://skillicons.dev/icons?i=vs,vscode,netbeans,mysqlworkbench,phpmyadmin,git)](https://skillicons.dev)
 
 📚 I enjoy continuously learning new technologies, sharpening my problem-solving skills, and transforming ideas into practical, real-world applications.
 
