@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi There 👋. **I am Heshan** 
 
-<!--
-**heshanX001/heshanX001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate student at SLIATE. Deeply passionate about technology, software engineering, and building impactful digital solutions.
 
-Here are some ideas to get you started:
+💻 Focused on Web Application Development, constantly improving my ability to design, build, and optimize modern software systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Technologies & Tools I work with:
+• C#
+• Java
+• HTML, CSS and JavaScript
+• PHP & MySQL
+• Figma** for UI/UX design
+
+📚 I enjoy continuously learning new technologies, sharpening my problem-solving skills, and transforming ideas into practical, real-world applications.
+
+🚀 Driven by curiosity and a strong passion for innovation, I’m always exploring better ways to build efficient, scalable, and meaningful software.
+
+⭐ Committed to **continuous growth, collaboration, and creating technology that makes a real impact.**
