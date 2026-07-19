@@ -1,14 +1,22 @@
 Hi There 👋. **I am Heshan** 
 
-🎓 Undergraduate student at SLIATE. Deeply passionate about technology, software engineering, and building impactful digital solutions.
+🎓 Undergraduate student at SLIATE. Deeply passionate about technology, DevOps engineering, and building impactful digital solutions.
 
 💻 Focused on Web Application Development, constantly improving my ability to design, build, and optimize modern software systems.
 
 🛠️ Technologies & Tools I work with:
+• React.js
+• Express.js
+• Node.js
+• POSTMAN
+• Antigravity AI
+
+⚛️ PRogramming Languages
 • C#
 • JAVA
 • HTML,CSS and JS
-• PHP and MySQL
+• PHP
+• MySQL
 
 - 🚀 Learning Full Stack Web Development
 
